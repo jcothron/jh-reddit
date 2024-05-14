@@ -1,0 +1,36 @@
+{
+  "subReddits": [
+    {
+      "id": "apple",
+      "name": "Apple"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft"
+    },
+    {
+      "id": "mlb",
+      "name": "MLB"
+    },
+    {
+      "id": "nba",
+      "name": "NBA"
+    },
+    {
+      "id": "nfl",
+      "name": "NFL"
+    },
+    {
+      "id": "0",
+      "name": "Doesn't Exist'"
+    },
+    {
+      "id": "nhl",
+      "name": "NHL"
+    },
+    {
+      "id": "smoking",
+      "name": "Smoking(BBQ)"
+    }
+  ]
+}

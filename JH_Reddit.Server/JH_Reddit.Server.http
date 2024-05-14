@@ -1,0 +1,6 @@
+@JH_Reddit.Server_HostAddress = http://localhost:5081
+
+POST {{JH_Reddit.Server_HostAddress}}/GetRedditData/
+Accept: application/json
+
+###
