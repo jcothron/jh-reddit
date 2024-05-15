@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JH_Reddit.Server", "JH_Reddit.Server\JH_Reddit.Server.csproj", "{68D9722D-4E14-474A-B9C7-1A46EFFC9013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JH_Reddit.Server", "JH_Reddit.Server\JH_Reddit.Server.csproj", "{68D9722D-4E14-474A-B9C7-1A46EFFC9013}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "jh_reddit.client", "jh_reddit.client\jh_reddit.client.esproj", "{F5C91285-9869-4599-B12F-0523F4DD78F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{769AB8FD-EED7-46E4-9E84-3C06D2A12BFF}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
