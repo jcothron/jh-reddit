@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "JH_Reddit.Server\\JH_Reddit.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "jh_reddit.client\\jh_reddit.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
