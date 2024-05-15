@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JH_RedditTest", "JH_RedditTest\JH_RedditTest.csproj", "{CF5F63AD-BC29-43CD-9532-89BBFBAEF718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{F5C91285-9869-4599-B12F-0523F4DD78F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C91285-9869-4599-B12F-0523F4DD78F6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F5C91285-9869-4599-B12F-0523F4DD78F6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CF5F63AD-BC29-43CD-9532-89BBFBAEF718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5F63AD-BC29-43CD-9532-89BBFBAEF718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5F63AD-BC29-43CD-9532-89BBFBAEF718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5F63AD-BC29-43CD-9532-89BBFBAEF718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
