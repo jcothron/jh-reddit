@@ -1,4 +1,4 @@
-# Example Application to read a given subreddit.
+# Example Application to track subReddits
 
 ## Running the app.
 	
